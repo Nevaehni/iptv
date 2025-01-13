@@ -1,0 +1,306 @@
+[
+    {
+        "name": "TRT 1",
+        "category": "Ulusal"
+    },
+    {
+        "name": "ATV",
+        "category": "Ulusal"
+    },
+    {
+        "name": "Kanal D",
+        "category": "Ulusal"
+    },
+    {
+        "name": "Now TV",
+        "category": "Ulusal"
+    },
+    {
+        "name": "Show TV",
+        "category": "Ulusal"
+    },
+    {
+        "name": "Beyaz TV",
+        "category": "Ulusal"
+    },
+    {
+        "name": "Kanal 7",
+        "category": "Ulusal"
+    },
+    {
+        "name": "TV8",
+        "category": "Ulusal"
+    },
+    {
+        "name": "Star TV",
+        "category": "Ulusal"
+    },
+    {
+        "name": "360 TV",
+        "category": "Ulusal"
+    },
+    {
+        "name": "TV 100",
+        "category": "Ulusal"
+    },
+    {
+        "name": "TRT Türk",
+        "category": "Ulusal - Yurt Dışı"
+    },
+    {
+        "name": "TRT Avaz",
+        "category": "Ulusal - Yurt Dışı"
+    },
+    {
+        "name": "Euro D",
+        "category": "Ulusal - Yurt Dışı"
+    },
+    {
+        "name": "TGRT EU",
+        "category": "Ulusal - Yurt Dışı"
+    },
+    {
+        "name": "Show Türk",
+        "category": "Ulusal - Yurt Dışı"
+    },
+    {
+        "name": "Kanal 7 Avrupa",
+        "category": "Ulusal - Yurt Dışı"
+    },
+    {
+        "name": "TRT Haber",
+        "category": "Haber"
+    },
+    {
+        "name": "A Haber",
+        "category": "Haber"
+    },
+    {
+        "name": "CNN Türk",
+        "category": "Haber"
+    },
+    {
+        "name": "Habertürk",
+        "category": "Haber"
+    },
+    {
+        "name": "Haber Global",
+        "category": "Haber"
+    },
+    {
+        "name": "Ülke TV",
+        "category": "Haber"
+    },
+    {
+        "name": "Halk TV",
+        "category": "Haber"
+    },
+    {
+        "name": "NTV",
+        "category": "Haber"
+    },
+    {
+        "name": "24 TV",
+        "category": "Haber"
+    },
+    {
+        "name": "Akit TV",
+        "category": "Haber"
+    },
+    {
+        "name": "Sözcü TV",
+        "category": "Haber"
+    },
+    {
+        "name": "Tele 1",
+        "category": "Haber"
+    },
+    {
+        "name": "TVNET",
+        "category": "Haber"
+    },
+    {
+        "name": "Bengütürk TV",
+        "category": "Haber"
+    },
+    {
+        "name": "Yol TV",
+        "category": "Haber"
+    },
+    {
+        "name": "TBMM TV",
+        "category": "Haber"
+    },
+    {
+        "name": "DHA Canlı 1",
+        "category": "Haber"
+    },
+    {
+        "name": "DHA Canlı 2",
+        "category": "Haber"
+    },
+    {
+        "name": "Bloomberg HT",
+        "category": "Ekonomi"
+    },
+    {
+        "name": "Ekotürk",
+        "category": "Ekonomi"
+    },
+    {
+        "name": "Finans Türk",
+        "category": "Ekonomi"
+    },
+    {
+        "name": "CNBC-e",
+        "category": "Ekonomi"
+    },
+    {
+        "name": "TRT 2",
+        "category": "Eğlence"
+    },
+    {
+        "name": "a2",
+        "category": "Eğlence"
+    },
+    {
+        "name": "teve2",
+        "category": "Eğlence"
+    },
+    {
+        "name": "Show Max",
+        "category": "Eğlence"
+    },
+    {
+        "name": "TV8.5",
+        "category": "Eğlence"
+    },
+    {
+        "name": "DMAX",
+        "category": "Eğlence"
+    },
+    {
+        "name": "TLC",
+        "category": "Eğlence"
+    },
+    {
+        "name": "TV 4",
+        "category": "Eğlence"
+    },
+    {
+        "name": "Dizi Film TV",
+        "category": "Eğlence"
+    },
+    {
+        "name": "Kültür Sanat TV",
+        "category": "Eğlence"
+    },
+    {
+        "name": "Belgesel TV",
+        "category": "Eğlence"
+    },
+    {
+        "name": "Sağlıklı Günler TV",
+        "category": "Eğlence"
+    },
+    {
+        "name": "Tarih TV",
+        "category": "Eğlence"
+    },
+    {
+        "name": "TRT Spor",
+        "category": "Spor"
+    },
+    {
+        "name": "TRT Spor Yıldız",
+        "category": "Spor"
+    },
+    {
+        "name": "A Spor",
+        "category": "Spor"
+    },
+    {
+        "name": "Sports TV",
+        "category": "Spor"
+    },
+    {
+        "name": "Tivibu Spor",
+        "category": "Spor"
+    },
+    {
+        "name": "FB TV",
+        "category": "Spor"
+    },
+    {
+        "name": "GS TV",
+        "category": "Spor"
+    },
+    {
+        "name": "TJK TV",
+        "category": "Spor"
+    },
+    {
+        "name": "TJK TV 2",
+        "category": "Spor"
+    },
+    {
+        "name": "Briç ve Satranç TV",
+        "category": "Spor"
+    },
+    {
+        "name": "Fit Yaşa TV",
+        "category": "Spor"
+    },
+    {
+        "name": "Ziraat Türkiye Kupası TV",
+        "category": "Spor"
+    },
+    {
+        "name": "TRT Müzik",
+        "category": "Müzik"
+    },
+    {
+        "name": "Dream Türk",
+        "category": "Müzik"
+    },
+    {
+        "name": "Powertürk TV",
+        "category": "Müzik"
+    },
+    {
+        "name": "Power TV",
+        "category": "Müzik"
+    },
+    {
+        "name": "Kral Pop TV",
+        "category": "Müzik"
+    },
+    {
+        "name": "Number One TV",
+        "category": "Müzik"
+    },
+    {
+        "name": "Number One Türk",
+        "category": "Müzik"
+    },
+    {
+        "name": "Milyon TV",
+        "category": "Müzik"
+    },
+    {
+        "name": "Tatlises TV",
+        "category": "Müzik"
+    },
+    {
+        "name": "TMB",
+        "category": "Müzik"
+    },
+    {
+        "name": "Power Dance",
+        "category": "Müzik"
+    },
+    {
+        "name": "Power Love",
+        "category": "Müzik"
+    }
+]
