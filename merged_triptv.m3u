@@ -3,17 +3,14 @@
 http://stream.tvcdn.net/ulusal/trt-1.m3u8
 #EXTINF:-1 id="ATV.tr" logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png" title="Ulusal" group-title="Ulusal" tvg-id="atv",atv
 http://stream.tvcdn.net/ulusal/atv.m3u8
-#EXTINF:-1 id="ATV.tr" logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png" title="Ulusal" group-title="Ulusal" tvg-id="atv",atv
 https://c.fulltvizle.com/aytv/index.m3u8
 #EXTINF:-1 id="KanalD.tr" logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" title="Ulusal" group-title="Ulusal" tvg-id="kanald",Kanal D
 http://stream.tvcdn.net/ulusal/kanal-d.m3u8
 #EXTINF:-1 id="Now.tr" logo="http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png" title="Ulusal" group-title="Ulusal" tvg-id="nowtv",Now TV
 http://stream.tvcdn.net/ulusal/now-tv.m3u8
-#EXTINF:-1 id="Now.tr" logo="http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png" title="Ulusal" group-title="Ulusal" tvg-id="nowtv",Now TV
 https://c.fulltvizle.com/fox/index.m3u8
 #EXTINF:-1 id="ShowTV.tr" logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" title="Ulusal" group-title="Ulusal" tvg-id="showtv",Show TV
 http://nimplus3.bozztv.com/showtvturk/showtvturk/playlist.m3u8
-#EXTINF:-1 id="ShowTV.tr" logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" title="Ulusal" group-title="Ulusal" tvg-id="showtv",Show TV
 http://stream.tvcdn.net/ulusal/show-tv.m3u8
 #EXTINF:-1 id="BeyazTV.tr" logo="http://assets.tvcdn.net/60d7aaf4-817b-46be-bbab-68f8b30de8fb.png" title="Ulusal" group-title="Ulusal" tvg-id="beyaztv",Beyaz TV
 http://stream.tvcdn.net/ulusal/beyaz-tv.m3u8
@@ -43,7 +40,6 @@ http://stream.tvcdn.net/ulusal-yurt-disi/kanal-7-avrupa.m3u8
 http://stream.tvcdn.net/haber/trt-haber.m3u8
 #EXTINF:-1 id="AHaber.tr" logo="http://assets.tvcdn.net/06e7abd9-0fbb-441f-af63-b895513d3aaa.png" title="Haber" group-title="Haber" tvg-id="ahaber",A Haber
 http://stream.tvcdn.net/haber/a-haber.m3u8
-#EXTINF:-1 id="AHaber.tr" logo="http://assets.tvcdn.net/06e7abd9-0fbb-441f-af63-b895513d3aaa.png" title="Haber" group-title="Haber" tvg-id="ahaber",A Haber
 https://ythls.onrender.com/channel/UCKQhfw-lzz0uKnE1fY1PsAA.m3u8
 #EXTINF:-1 id="CNNTurk.tr" logo="http://assets.tvcdn.net/db0e3f2f-3191-4af2-9cde-5345eb7543e4.png" title="Haber" group-title="Haber" tvg-id="cnntürk",CNN Türk
 http://stream.tvcdn.net/haber/cnn-turk.m3u8
@@ -51,7 +47,6 @@ http://stream.tvcdn.net/haber/cnn-turk.m3u8
 http://stream.tvcdn.net/haber/haberturk.m3u8
 #EXTINF:-1 id="HaberGlobal.tr" logo="http://assets.tvcdn.net/d7e11245-3318-4cfd-bd1c-bdbb03d4c76a.png" title="Haber" group-title="Haber" tvg-id="haberglobal",Haber Global
 http://stream.tvcdn.net/haber/haber-global.m3u8
-#EXTINF:-1 id="HaberGlobal.tr" logo="http://assets.tvcdn.net/d7e11245-3318-4cfd-bd1c-bdbb03d4c76a.png" title="Haber" group-title="Haber" tvg-id="haberglobal",Haber Global
 https://haberglobaldvr.blutv.com/blutv_haberglobal_dvr/live.m3u8
 #EXTINF:-1 id="UlkeTV.tr" logo="http://assets.tvcdn.net/e20947de-9a22-4e53-9f88-b69cdf278be7.png" title="Haber" group-title="Haber" tvg-id="ülketv",Ülke TV
 http://stream.tvcdn.net/haber/ulke-tv.m3u8
@@ -61,7 +56,6 @@ http://stream.tvcdn.net/haber/halk-tv.m3u8
 http://stream.tvcdn.net/haber/ntv.m3u8
 #EXTINF:-1 id="24TV.tr" logo="http://assets.tvcdn.net/49267a8f-6313-43f9-bab4-9d5f109bad1b.png" title="Haber" group-title="Haber" tvg-id="24tv",24 TV
 http://stream.tvcdn.net/haber/24-tv.m3u8
-#EXTINF:-1 id="24TV.tr" logo="http://assets.tvcdn.net/49267a8f-6313-43f9-bab4-9d5f109bad1b.png" title="Haber" group-title="Haber" tvg-id="24tv",24 TV
 https://kanal24.blutv.com/blutv_kanal24_live/live.m3u8
 #EXTINF:-1 id="AkitTV.tr" logo="http://assets.tvcdn.net/bf736fbe-8a9d-4444-adfd-99f3e7593ef9.png" title="Haber" group-title="Haber" tvg-id="akittv",Akit TV
 http://stream.tvcdn.net/haber/akit-tv.m3u8
@@ -83,7 +77,6 @@ http://stream.tvcdn.net/haber/dha-canli-1.m3u8
 http://stream.tvcdn.net/haber/dha-canli-2.m3u8
 #EXTINF:-1 id="BloombergHT.tr" logo="http://assets.tvcdn.net/2a1808ad-733e-4223-a8b3-34be18ef21f9.png" title="Ekonomi" group-title="Ekonomi" tvg-id="bloomberght",Bloomberg HT
 http://stream.tvcdn.net/ekonomi/bloomberg-ht.m3u8
-#EXTINF:-1 id="BloombergHT.tr" logo="http://assets.tvcdn.net/2a1808ad-733e-4223-a8b3-34be18ef21f9.png" title="Ekonomi" group-title="Ekonomi" tvg-id="bloomberght",Bloomberg HT
 https://bloomberght2dvr.blutv.com/blutv_bloomberght_dvr/live.m3u8
 #EXTINF:-1 id="Ekoturk.tr" logo="http://assets.tvcdn.net/99155348-56d9-49c6-a0be-50ec0ae790ec.png" title="Ekonomi" group-title="Ekonomi" tvg-id="ekotürk",Ekotürk
 http://stream.tvcdn.net/ekonomi/ekoturk.m3u8
@@ -93,7 +86,6 @@ http://stream.tvcdn.net/ekonomi/finans-turk.m3u8
 http://stream.tvcdn.net/ekonomi/cnbc-e.m3u8
 #EXTINF:-1 id="TRT2.tr" logo="http://assets.tvcdn.net/7bab6062-acec-4452-a419-345ab95f24e9.png" title="Eğlence" group-title="Eğlence" tvg-id="trt2",TRT 2
 http://stream.tvcdn.net/eglence/trt-2.m3u8
-#EXTINF:-1 id="TRT2.tr" logo="http://assets.tvcdn.net/7bab6062-acec-4452-a419-345ab95f24e9.png" title="Eğlence" group-title="Eğlence" tvg-id="trt2",TRT 2
 https://trt2.blutv.com/blutv_trt2/live.m3u8
 #EXTINF:-1 id="A2TV.tr" logo="http://assets.tvcdn.net/9db055df-4bc8-4a68-b0fd-766a5a3113bc.png" title="Eğlence" group-title="Eğlence" tvg-id="a2",a2
 http://stream.tvcdn.net/eglence/a2.m3u8
@@ -101,7 +93,6 @@ http://stream.tvcdn.net/eglence/a2.m3u8
 http://stream.tvcdn.net/eglence/teve2.m3u8
 #EXTINF:-1 id="ShowMax.tr" logo="http://assets.tvcdn.net/ec1c55f6-b525-4466-b41c-a935915a6962.png" title="Eğlence" group-title="Eğlence" tvg-id="showmax",Show Max
 http://stream.tvcdn.net/eglence/show-max.m3u8
-#EXTINF:-1 id="ShowMax.tr" logo="http://assets.tvcdn.net/ec1c55f6-b525-4466-b41c-a935915a6962.png" title="Eğlence" group-title="Eğlence" tvg-id="showmax",Show Max
 https://canlitvulusal.xyz/live/showmax/index.m3u8
 #EXTINF:-1 id="TV85.tr" logo="http://assets.tvcdn.net/be26f47c-18d7-4447-971c-ca4ba60ffb4c.png" title="Eğlence" group-title="Eğlence" tvg-id="tv85",TV8.5
 http://stream.tvcdn.net/eglence/tv8-5.m3u8
@@ -207,7 +198,6 @@ http://stream.tvcdn.net/cocuk-egitim/trt-eba.m3u8
 http://stream.tvcdn.net/cocuk-egitim/trt-diyanet-cocuk.m3u8
 #EXTINF:-1 id="CartoonNetwork.tr" logo="http://assets.tvcdn.net/9cf2fc0e-278f-4007-b1a1-8fb22d4990eb.png" title="Çocuk&Eğitim" tvg-id="cartoonnetwork",Cartoon Network
 http://stream.tvcdn.net/cocuk-egitim/cartoon-network.m3u8
-#EXTINF:-1 id="CartoonNetwork.tr" logo="http://assets.tvcdn.net/9cf2fc0e-278f-4007-b1a1-8fb22d4990eb.png" title="Çocuk&Eğitim" tvg-id="cartoonnetwork",Cartoon Network
 https://canlitvulusal.xyz/live/cartoonnetwork/index.m3u8
 #EXTINF:-1 id="" logo="http://assets.tvcdn.net/222d7e52-2895-46a1-92a2-93e2ce1c8317.png" title="Çocuk&Eğitim" tvg-id="çocuklaraözeltv",Çocuklara Özel TV
 http://stream.tvcdn.net/cocuk-egitim/cocuklara-ozel-tv.m3u8
@@ -425,7 +415,6 @@ http://stream.tvcdn.net/yerel/kanal-60.m3u8
 http://stream.tvcdn.net/yerel/kanal-ada.m3u8
 #EXTINF:-1 id="" logo="http://assets.tvcdn.net/60c8ebf4-c5f6-4cb8-bab7-aae682e074dc.png" title="Yerel" tvg-id="kanalavrupa",Kanal Avrupa
 http://51.15.2.151/hls/kanalavrupa.m3u8
-#EXTINF:-1 id="" logo="http://assets.tvcdn.net/60c8ebf4-c5f6-4cb8-bab7-aae682e074dc.png" title="Yerel" tvg-id="kanalavrupa",Kanal Avrupa
 http://stream.tvcdn.net/yerel/kanal-avrupa.m3u8
 #EXTINF:-1 id="KanalFirat.tr" logo="http://assets.tvcdn.net/f00f1472-e8e7-4f30-b9e3-fb4376a43aac.png" title="Yerel" tvg-id="kanalfırat",Kanal Fırat
 http://stream.tvcdn.net/yerel/kanal-firat.m3u8
@@ -617,7 +606,6 @@ http://stream.tvcdn.net/diger-muzik/aviva.m3u8
 http://stream.tvcdn.net/diger-muzik/finest-tv.m3u8
 #EXTINF:-1 id="TempoTV.tr" logo="http://assets.tvcdn.net/09eddd54-7c9e-4036-8f9f-07d3c60c867c.png" title="Diğer-Müzik" tvg-id="tempotv",Tempo TV
 http://stream.tvcdn.net/diger-muzik/tempo-tv.m3u8
-#EXTINF:-1 id="TempoTV.tr" logo="http://assets.tvcdn.net/09eddd54-7c9e-4036-8f9f-07d3c60c867c.png" title="Diğer-Müzik" tvg-id="tempotv",Tempo TV
 https://waw2.artiyerelmedya.net/tempotv/bant1/playlist.m3u8
 #EXTINF:-1 id="" logo="http://assets.tvcdn.net/9e0d7b87-1ba4-4b1f-b769-4406a38a9851.jpeg" title="Diğer-Müzik" tvg-id="foramüzik",Fora Müzik
 http://stream.tvcdn.net/diger-muzik/fora-muzik.m3u8
