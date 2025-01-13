@@ -43,6 +43,8 @@ http://stream.tvcdn.net/ulusal-yurt-disi/kanal-7-avrupa.m3u8
 http://stream.tvcdn.net/haber/trt-haber.m3u8
 #EXTINF:-1 id="AHaber.tr" logo="http://assets.tvcdn.net/06e7abd9-0fbb-441f-af63-b895513d3aaa.png" title="Haber" group-title="Haber" tvg-id="ahaber",A Haber
 http://stream.tvcdn.net/haber/a-haber.m3u8
+#EXTINF:-1 id="AHaber.tr" logo="http://assets.tvcdn.net/06e7abd9-0fbb-441f-af63-b895513d3aaa.png" title="Haber" group-title="Haber" tvg-id="ahaber",A Haber
+https://ythls.onrender.com/channel/UCKQhfw-lzz0uKnE1fY1PsAA.m3u8
 #EXTINF:-1 id="CNNTurk.tr" logo="http://assets.tvcdn.net/db0e3f2f-3191-4af2-9cde-5345eb7543e4.png" title="Haber" group-title="Haber" tvg-id="cnntürk",CNN Türk
 http://stream.tvcdn.net/haber/cnn-turk.m3u8
 #EXTINF:-1 id="HaberturkTV.tr" logo="http://assets.tvcdn.net/9fbfa842-0fff-488a-aab7-d534dbbfe8a9.png" title="Haber" group-title="Haber" tvg-id="habertürk",Habertürk
@@ -422,6 +424,8 @@ http://stream.tvcdn.net/yerel/kanal-60.m3u8
 #EXTINF:-1 id="" logo="http://assets.tvcdn.net/5cbdd199-9ed1-4f2d-a106-a6d9c53227c4.png" title="Yerel" tvg-id="kanalada",Kanal Ada
 http://stream.tvcdn.net/yerel/kanal-ada.m3u8
 #EXTINF:-1 id="" logo="http://assets.tvcdn.net/60c8ebf4-c5f6-4cb8-bab7-aae682e074dc.png" title="Yerel" tvg-id="kanalavrupa",Kanal Avrupa
+http://51.15.2.151/hls/kanalavrupa.m3u8
+#EXTINF:-1 id="" logo="http://assets.tvcdn.net/60c8ebf4-c5f6-4cb8-bab7-aae682e074dc.png" title="Yerel" tvg-id="kanalavrupa",Kanal Avrupa
 http://stream.tvcdn.net/yerel/kanal-avrupa.m3u8
 #EXTINF:-1 id="KanalFirat.tr" logo="http://assets.tvcdn.net/f00f1472-e8e7-4f30-b9e3-fb4376a43aac.png" title="Yerel" tvg-id="kanalfırat",Kanal Fırat
 http://stream.tvcdn.net/yerel/kanal-firat.m3u8
@@ -613,6 +617,8 @@ http://stream.tvcdn.net/diger-muzik/aviva.m3u8
 http://stream.tvcdn.net/diger-muzik/finest-tv.m3u8
 #EXTINF:-1 id="TempoTV.tr" logo="http://assets.tvcdn.net/09eddd54-7c9e-4036-8f9f-07d3c60c867c.png" title="Diğer-Müzik" tvg-id="tempotv",Tempo TV
 http://stream.tvcdn.net/diger-muzik/tempo-tv.m3u8
+#EXTINF:-1 id="TempoTV.tr" logo="http://assets.tvcdn.net/09eddd54-7c9e-4036-8f9f-07d3c60c867c.png" title="Diğer-Müzik" tvg-id="tempotv",Tempo TV
+https://waw2.artiyerelmedya.net/tempotv/bant1/playlist.m3u8
 #EXTINF:-1 id="" logo="http://assets.tvcdn.net/9e0d7b87-1ba4-4b1f-b769-4406a38a9851.jpeg" title="Diğer-Müzik" tvg-id="foramüzik",Fora Müzik
 http://stream.tvcdn.net/diger-muzik/fora-muzik.m3u8
 #EXTINF:-1 id="GencKrallarTV.tr" logo="http://assets.tvcdn.net/6b1d3b33-8f67-40fe-90e8-3d57db6c6318.jpg" title="Diğer-Müzik" tvg-id="gençkraltv",Genç Kral TV
