@@ -12,9 +12,9 @@ http://stream.tvcdn.net/ulusal/now-tv.m3u8
 #EXTINF:-1 id="Now.tr" logo="http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png" title="Ulusal",Now TV
 https://c.fulltvizle.com/fox/index.m3u8
 #EXTINF:-1 id="ShowTV.tr" logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" title="Ulusal",Show TV
-http://stream.tvcdn.net/ulusal/show-tv.m3u8
-#EXTINF:-1 id="ShowTV.tr" logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" title="Ulusal",Show TV
 http://nimplus3.bozztv.com/showtvturk/showtvturk/playlist.m3u8
+#EXTINF:-1 id="ShowTV.tr" logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" title="Ulusal",Show TV
+http://stream.tvcdn.net/ulusal/show-tv.m3u8
 #EXTINF:-1 id="BeyazTV.tr" logo="http://assets.tvcdn.net/60d7aaf4-817b-46be-bbab-68f8b30de8fb.png" title="Ulusal",Beyaz TV
 http://stream.tvcdn.net/ulusal/beyaz-tv.m3u8
 #EXTINF:-1 id="Kanal7.tr" logo="http://assets.tvcdn.net/1125734c-3525-4390-b8ed-c50380c70e4d.png" title="Ulusal",Kanal 7
