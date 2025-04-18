@@ -19,6 +19,8 @@ http://185.234.111.229:8000/play/a05k
 http://185.234.111.229:8000/play/a07k
 #EXTINF:-1 id="kanal7" logo="https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/kanal-7-tr.png" title="ulusal" tvg-logo="https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/kanal-7-tr.png" group-title="ulusal" tvg-id="kanal7",Kanal 7 (1080p) [Not 24/7]
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+#EXTINF:-1 id="kanald" logo="https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/kanal-d-tr.png" title="ulusal" tvg-logo="https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/kanal-d-tr.png" group-title="ulusal" tvg-id="kanald",Kanal D (1080p)
+http://trn09.tulix.tv/gt-kanald/index.m3u8
 #EXTINF:-1 id="kralpoptv" logo="https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/kral-pop-tv-tr.png" title="müzik" tvg-logo="https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/kral-pop-tv-tr.png" group-title="müzik" tvg-id="kralpoptv",KRAL Pop TV (720p)
 https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8
 #EXTINF:-1 id="nowtv" logo="https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/now-tv-tr.png" title="ulusal" tvg-logo="https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/now-tv-tr.png" group-title="ulusal" tvg-id="nowtv",NOW TV
@@ -141,5 +143,3 @@ https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 https://trtturk.blutv.com/blutv_trtturk2/live.m3u8
 #EXTINF:-1 id="powerturktv" logo="https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/powerturk-tv-tr.png" title="müzik" tvg-logo="https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/powerturk-tv-tr.png" group-title="müzik" tvg-id="powerturktv",PowerTurk TV
 https://powerturk.blutv.com/blutv_powerturk/powerturk_sd.smil/playlist.m3u8
-#EXTINF:-1 id="kanald" logo="https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/kanal-d-tr.png" title="ulusal" tvg-logo="https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/kanal-d-tr.png" group-title="ulusal" tvg-id="kanald",Kanal D (1080p)
-http://trn09.tulix.tv/gt-kanald/index.m3u8
