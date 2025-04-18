@@ -9,7 +9,7 @@
       "trt-1",
       "trt_1"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/trt-1-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/trt-1-tr.png"
   },
   {
     "channel": "atv",
@@ -19,7 +19,7 @@
       "a-tv",
       "a_tv"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/atv-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/atv-tr.png"
   },
   {
     "channel": "kanal d",
@@ -30,7 +30,7 @@
       "kanal_d",
       "kanald"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/kanal-d-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/kanal-d-tr.png"
   },
   {
     "channel": "now tv",
@@ -40,7 +40,7 @@
       "now-tv",
       "now_tv"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/now-tv-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/now-tr.png"
   },
   {
     "channel": "show tv",
@@ -50,7 +50,7 @@
       "show-tv",
       "show_tv"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/show-tv-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/show-tr.png"
   },
   {
     "channel": "beyaz tv",
@@ -60,7 +60,7 @@
       "beyaz-tv",
       "beyaz_tv"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/beyaz-tv-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/beyaz-tv-tr.png"
   },
   {
     "channel": "kanal 7",
@@ -71,7 +71,7 @@
       "kanal_7",
       "kanalyedi"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/kanal-7-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/kanal-7-tr.png"
   },
   {
     "channel": "tv8",
@@ -82,7 +82,7 @@
       "tv_8",
       "tvsekiz"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/tv8-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/tv8-tr.png"
   },
   {
     "channel": "star tv",
@@ -92,7 +92,7 @@
       "star-tv",
       "star_tv"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/star-tv-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/star-tv-tr.png"
   },
   {
     "channel": "360 tv",
@@ -104,7 +104,7 @@
       "360-tv",
       "360_tv"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/360-tv-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/360-tr.png"
   },
   {
     "channel": "tv 100",
@@ -116,7 +116,7 @@
       "tvyüz",
       "tvyuz"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/tv-100-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/tv100-tr.png"
   },
   {
     "channel": "trt türk",
@@ -130,7 +130,7 @@
       "trtturk",
       "trt turk"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/trt-turk-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/trt-turk-tr.png"
   },
   {
     "channel": "trt avaz",
@@ -140,7 +140,7 @@
       "trt-avaz",
       "trt_avaz"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/trt-avaz-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/trt-avaz-tr.png"
   },
   {
     "channel": "euro d",
@@ -150,7 +150,7 @@
       "euro-d",
       "euro_d"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/euro-d-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/euro-d-tr.png"
   },
   {
     "channel": "tgrt eu",
@@ -162,7 +162,7 @@
       "tgrt avrupa",
       "tgrtavrupa"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/tgrt-eu-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/tgrt-eu-tr.png"
   },
   {
     "channel": "show türk",
@@ -176,7 +176,7 @@
       "showturk",
       "show turk"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/show-turk-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/show-turk-tr.png"
   },
   {
     "channel": "kanal 7 avrupa",
@@ -189,7 +189,7 @@
       "kanal 7 europe",
       "kanal7europe"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/kanal-7-avrupa-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/kanal-7-avrupa-tr.png"
   },
   {
     "channel": "trt haber",
@@ -199,7 +199,7 @@
       "trt-haber",
       "trt_haber"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/trt-haber-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/trt-haber-tr.png"
   },
   {
     "channel": "a haber",
@@ -209,7 +209,7 @@
       "a-haber",
       "a_haber"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/a-haber-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/a-haber-tr.png"
   },
   {
     "channel": "cnn türk",
@@ -222,7 +222,7 @@
       "cnn_turk",
       "cnn turk"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/cnn-turk-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/cnn-turk-tr.png"
   },
   {
     "channel": "habertürk",
@@ -236,7 +236,7 @@
       "haber_turk",
       "haber turk"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/haberturk-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/haberturk-tr.png"
   },
   {
     "channel": "haber global",
@@ -246,7 +246,7 @@
       "haber-global",
       "haber_global"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/haber-global-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/haber-global-tr.png"
   },
   {
     "channel": "ülke tv",
@@ -260,7 +260,7 @@
       "ulke-tv",
       "ulke_tv"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/ulke-tv-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/ulke-tv-tr.png"
   },
   {
     "channel": "halk tv",
@@ -270,7 +270,7 @@
       "halk-tv",
       "halk_tv"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/halk-tv-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/halk-tv-tr.png"
   },
   {
     "channel": "ntv",
@@ -280,7 +280,7 @@
       "n-tv",
       "n_tv"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/ntv-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/ntv-tr.png"
   },
   {
     "channel": "24 tv",
@@ -292,7 +292,7 @@
       "yirmidort tv",
       "yirmidörttv"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/24-tv-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/24-tr.png"
   },
   {
     "channel": "akit tv",
@@ -302,7 +302,7 @@
       "akit-tv",
       "akit_tv"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/akit-tv-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/akit-tv-tr.png"
   },
   {
     "channel": "sözcü tv",
@@ -316,7 +316,7 @@
       "sozcu-tv",
       "sozcu_tv"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/sozcu-tv-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/sozcu-tv-tr.png"
   },
   {
     "channel": "tele 1",
@@ -329,7 +329,7 @@
       "tele one",
       "telebir"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/tele-1-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/tele1-tr.png"
   },
   {
     "channel": "tvnet",
@@ -339,7 +339,7 @@
       "tv-net",
       "tv_net"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/tvnet-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/tvnet-tr.png"
   },
   {
     "channel": "bengütürk tv",
@@ -355,7 +355,7 @@
       "benguturk-tv",
       "benguturk_tv"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/benguturk-tv-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/bengu-turk-tr.png"
   },
   {
     "channel": "yol tv",
@@ -365,7 +365,7 @@
       "yol-tv",
       "yol_tv"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/yol-tv-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/yol-tv-tr.png"
   },
   {
     "channel": "tbmm tv",
@@ -375,7 +375,7 @@
       "tbmm-tv",
       "tbmm_tv"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/tbmm-tv-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/tbmm-tv-tr.png"
   },
   {
     "channel": "dha canlı 1",
@@ -389,7 +389,7 @@
       "dha-canli-1",
       "dha_canli_1"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/dha-canli-1-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/dha-canli-1-tr.png"
   },
   {
     "channel": "dha canlı 2",
@@ -403,7 +403,7 @@
       "dha-canli-2",
       "dha_canli_2"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/dha-canli-2-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/dha-canli-2-tr.png"
   },
   {
     "channel": "bloomberg ht",
@@ -415,7 +415,7 @@
       "bloomberg habertürk",
       "bloomberg haberturk"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/bloomberg-ht-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/bloomberg-ht-tr.png"
   },
   {
     "channel": "ekotürk",
@@ -429,7 +429,7 @@
       "eko-turk",
       "eko_turk"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/ekoturk-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/ekoturk-tr.png"
   },
   {
     "channel": "finans türk",
@@ -442,7 +442,7 @@
       "finans-turk",
       "finans_turk"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/finans-turk-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/finans-turk-tr.png"
   },
   {
     "channel": "cnbc-e",
@@ -452,7 +452,7 @@
       "cnbc e",
       "cnbc_e"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/cnbc-e-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/cnbc-e-tr.png"
   },
   {
     "channel": "trt 2",
@@ -464,7 +464,7 @@
       "trtiki",
       "trt iki"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/trt-2-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/trt-2-tr.png"
   },
   {
     "channel": "a2",
@@ -476,7 +476,7 @@
       "aiki",
       "a iki"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/a2-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/a2-tr.png"
   },
   {
     "channel": "teve2",
@@ -490,7 +490,7 @@
       "tv2",
       "tv 2"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/teve2-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/teve2-tr.png"
   },
   {
     "channel": "show max",
@@ -500,7 +500,7 @@
       "show-max",
       "show_max"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/show-max-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/show-max-tr.png"
   },
   {
     "channel": "tv8.5",
@@ -516,7 +516,7 @@
       "tv8buçuk",
       "tv 8 buçuk"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/tv8-5-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/tv85-tr.png"
   },
   {
     "channel": "dmax",
@@ -526,7 +526,7 @@
       "d-max",
       "d_max"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/dmax-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/dmax-tr.png"
   },
   {
     "channel": "tlc",
@@ -536,7 +536,7 @@
       "t-l-c",
       "t_l_c"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/tlc-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/tlc-tr.png"
   },
   {
     "channel": "tv 4",
@@ -550,7 +550,7 @@
       "tv dört",
       "tv dort"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/tv-4-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/tv-4-tr.png"
   },
   {
     "channel": "dizi film tv",
@@ -561,7 +561,7 @@
       "dizi_film_tv",
       "dizifilm tv"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/dizi-film-tv-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/dizi-film-tv-tr.png"
   },
   {
     "channel": "kültür sanat tv",
@@ -575,7 +575,7 @@
       "kultur-sanat-tv",
       "kultur_sanat_tv"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/kultur-sanat-tv-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/kultur-sanat-tv-tr.png"
   },
   {
     "channel": "belgesel tv",
@@ -585,7 +585,7 @@
       "belgesel-tv",
       "belgesel_tv"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/belgesel-tv-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/belgesel-tv-tr.png"
   },
   {
     "channel": "sağlıklı günler tv",
@@ -599,7 +599,7 @@
       "saglikli-gunler-tv",
       "saglikli_gunler_tv"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/saglikli-gunler-tv-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/saglikli-gunler-tv-tr.png"
   },
   {
     "channel": "tarih tv",
@@ -609,7 +609,7 @@
       "tarih-tv",
       "tarih_tv"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/tarih-tv-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/tarih-tv-tr.png"
   },
   {
     "channel": "trt spor",
@@ -619,7 +619,7 @@
       "trt-spor",
       "trt_spor"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/trt-spor-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/trt-spor-tr.png"
   },
   {
     "channel": "trt spor yıldız",
@@ -634,7 +634,7 @@
       "trt_spor_yildiz",
       "trtsporyıldız"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/trt-spor-yildiz-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/trt-spor-yildiz-tr.png"
   },
   {
     "channel": "a spor",
@@ -644,7 +644,7 @@
       "a-spor",
       "a_spor"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/a-spor-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/a-spor-tr.png"
   },
   {
     "channel": "sports tv",
@@ -654,7 +654,7 @@
       "sports-tv",
       "sports_tv"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/sports-tv-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/sports-tv-tr.png"
   },
   {
     "channel": "tivibu spor",
@@ -664,7 +664,7 @@
       "tivibu-spor",
       "tivibu_spor"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/tivibu-spor-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/tivibu-spor-tr.png"
   },
   {
     "channel": "fb tv",
@@ -678,7 +678,7 @@
       "fenerbahçetv",
       "fenerbahcetv"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/fb-tv-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/fb-tv-tr.png"
   },
   {
     "channel": "gs tv",
@@ -690,7 +690,7 @@
       "galatasaray tv",
       "galatasaraytv"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/gs-tv-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/gs-tv-tr.png"
   },
   {
     "channel": "tjk tv",
@@ -700,7 +700,7 @@
       "tjk-tv",
       "tjk_tv"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/tjk-tv-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/tjk-tv-tr.png"
   },
   {
     "channel": "tjk tv 2",
@@ -713,7 +713,7 @@
       "tjk tv iki",
       "tjktviki"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/tjk-tv-2-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/tjk-tv-2-tr.png"
   },
   {
     "channel": "briç ve satranç tv",
@@ -727,7 +727,7 @@
       "bric-ve-satranc-tv",
       "bric_ve_satranc_tv"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/bric-ve-satranc-tv-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/bric-ve-satranc-tv-tr.png"
   },
   {
     "channel": "fit yaşa tv",
@@ -741,7 +741,7 @@
       "fit-yasa-tv",
       "fit_yasa_tv"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/fit-yasa-tv-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/fit-yasa-tv-tr.png"
   },
   {
     "channel": "ziraat türkiye kupası tv",
@@ -757,7 +757,7 @@
       "ztk tv",
       "ztktv"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/ziraat-turkiye-kupasi-tv-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/ziraat-turkiye-kupasi-tv-tr.png"
   },
   {
     "channel": "trt müzik",
@@ -771,7 +771,7 @@
       "trt-muzik",
       "trt_muzik"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/trt-muzik-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/trt-muzik-tr.png"
   },
   {
     "channel": "dream türk",
@@ -785,7 +785,7 @@
       "dream-turk",
       "dream_turk"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/dream-turk-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/dream-turk-tr.png"
   },
   {
     "channel": "powertürk tv",
@@ -800,7 +800,7 @@
       "power-turk-tv",
       "power_turk_tv"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/powerturk-tv-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/powerturk-tv-tr.png"
   },
   {
     "channel": "power tv",
@@ -810,7 +810,7 @@
       "power-tv",
       "power_tv"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/power-tv-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/power-tv-tr.png"
   },
   {
     "channel": "kral pop tv",
@@ -821,7 +821,7 @@
       "kral_pop_tv",
       "kralpop tv"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/kral-pop-tv-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/kral-pop-tv-tr.png"
   },
   {
     "channel": "number one tv",
@@ -833,7 +833,7 @@
       "no1 tv",
       "no1tv"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/number-one-tv-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/number-one-tv-tr.png"
   },
   {
     "channel": "number one türk",
@@ -851,7 +851,7 @@
       "no1 turk",
       "no1turk"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/number-one-turk-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/number-one-turk-tr.png"
   },
   {
     "channel": "milyon tv",
@@ -861,7 +861,7 @@
       "milyon-tv",
       "milyon_tv"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/milyon-tv-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/milyon-tv-tr.png"
   },
   {
     "channel": "tatlıses tv",
@@ -875,7 +875,7 @@
       "tatlises-tv",
       "tatlises_tv"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/tatlises-tv-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/tatlises-tv-tr.png"
   },
   {
     "channel": "tmb",
@@ -887,7 +887,7 @@
       "türk müzik birliği",
       "turk muzik birligi"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/tmb-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/tmb-tr.png"
   },
   {
     "channel": "power dance",
@@ -897,7 +897,7 @@
       "power-dance",
       "power_dance"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/power-dance-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/power-dance-tr.png"
   },
   {
     "channel": "power love",
@@ -907,6 +907,6 @@
       "power-love",
       "power_love"
     ],
-    "icon": "https://raw.githubusercontent.com/Nevaehni/tv-logos/refs/heads/main/countries/turkey/power-love-tr.png"
+    "icon": "https://raw.githubusercontent.com/Nevaehni/iptv/refs/heads/main/icons/power-love-tr.png"
   }
 ]
