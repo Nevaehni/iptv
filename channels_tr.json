@@ -1,78 +1,382 @@
 [
-  { "channel": "trt 1", "category": "ulusal" },
-  { "channel": "atv", "category": "ulusal" },
-  { "channel": "kanal d", "category": "ulusal" },
-  { "channel": "now tv", "category": "ulusal" },
-  { "channel": "show tv", "category": "ulusal" },
-  { "channel": "beyaz tv", "category": "ulusal" },
-  { "channel": "kanal 7", "category": "ulusal" },
-  { "channel": "tv8", "category": "ulusal" },
-  { "channel": "star tv", "category": "ulusal" },
-  { "channel": "360 tv", "category": "ulusal" },
-  { "channel": "tv 100", "category": "ulusal" },
-  { "channel": "trt türk", "category": "ulusal - yurt dışı" },
-  { "channel": "trt avaz", "category": "ulusal - yurt dışı" },
-  { "channel": "euro d", "category": "ulusal - yurt dışı" },
-  { "channel": "tgrt eu", "category": "ulusal - yurt dışı" },
-  { "channel": "show türk", "category": "ulusal - yurt dışı" },
-  { "channel": "kanal 7 avrupa", "category": "ulusal - yurt dışı" },
-  { "channel": "trt haber", "category": "haber" },
-  { "channel": "a haber", "category": "haber" },
-  { "channel": "cnn türk", "category": "haber" },
-  { "channel": "habertürk", "category": "haber" },
-  { "channel": "haber global", "category": "haber" },
-  { "channel": "ülke tv", "category": "haber" },
-  { "channel": "halk tv", "category": "haber" },
-  { "channel": "ntv", "category": "haber" },
-  { "channel": "24 tv", "category": "haber" },
-  { "channel": "akit tv", "category": "haber" },
-  { "channel": "sözcü tv", "category": "haber" },
-  { "channel": "tele 1", "category": "haber" },
-  { "channel": "tvnet", "category": "haber" },
-  { "channel": "bengütürk tv", "category": "haber" },
-  { "channel": "yol tv", "category": "haber" },
-  { "channel": "tbmm tv", "category": "haber" },
-  { "channel": "dha canlı 1", "category": "haber" },
-  { "channel": "dha canlı 2", "category": "haber" },
-  { "channel": "bloomberg ht", "category": "ekonomi" },
-  { "channel": "ekotürk", "category": "ekonomi" },
-  { "channel": "finans türk", "category": "ekonomi" },
-  { "channel": "cnbc-e", "category": "ekonomi" },
-  { "channel": "trt 2", "category": "eğlence" },
-  { "channel": "a2", "category": "eğlence" },
-  { "channel": "teve2", "category": "eğlence" },
-  { "channel": "show max", "category": "eğlence" },
-  { "channel": "tv8.5", "category": "eğlence" },
-  { "channel": "dmax", "category": "eğlence" },
-  { "channel": "tlc", "category": "eğlence" },
-  { "channel": "tv 4", "category": "eğlence" },
-  { "channel": "dizi film tv", "category": "eğlence" },
-  { "channel": "kültür sanat tv", "category": "eğlence" },
-  { "channel": "belgesel tv", "category": "eğlence" },
-  { "channel": "sağlıklı günler tv", "category": "eğlence" },
-  { "channel": "tarih tv", "category": "eğlence" },
-  { "channel": "trt spor", "category": "spor" },
-  { "channel": "trt spor yıldız", "category": "spor" },
-  { "channel": "a spor", "category": "spor" },
-  { "channel": "sports tv", "category": "spor" },
-  { "channel": "tivibu spor", "category": "spor" },
-  { "channel": "fb tv", "category": "spor" },
-  { "channel": "gs tv", "category": "spor" },
-  { "channel": "tjk tv", "category": "spor" },
-  { "channel": "tjk tv 2", "category": "spor" },
-  { "channel": "briç ve satranç tv", "category": "spor" },
-  { "channel": "fit yaşa tv", "category": "spor" },
-  { "channel": "ziraat türkiye kupası tv", "category": "spor" },
-  { "channel": "trt müzik", "category": "müzik" },
-  { "channel": "dream türk", "category": "müzik" },
-  { "channel": "powertürk tv", "category": "müzik" },
-  { "channel": "power tv", "category": "müzik" },
-  { "channel": "kral pop tv", "category": "müzik" },
-  { "channel": "number one tv", "category": "müzik" },
-  { "channel": "number one türk", "category": "müzik" },
-  { "channel": "milyon tv", "category": "müzik" },
-  { "channel": "tatlıses tv", "category": "müzik" },
-  { "channel": "tmb", "category": "müzik" },
-  { "channel": "power dance", "category": "müzik" },
-  { "channel": "power love", "category": "müzik" }
+  {
+    "channel": "trt 1",
+    "category": "ulusal",
+    "close_match": ["trt1", "trt bir", "trtbir", "trt-1", "trt_1"]
+  },
+  {
+    "channel": "atv",
+    "category": "ulusal",
+    "close_match": ["a tv", "a-tv", "a_tv"]
+  },
+  {
+    "channel": "kanal d",
+    "category": "ulusal",
+    "close_match": ["kanald", "kanal-d", "kanal_d", "kanald"]
+  },
+  {
+    "channel": "now tv",
+    "category": "ulusal",
+    "close_match": ["nowtv", "now-tv", "now_tv"]
+  },
+  {
+    "channel": "show tv",
+    "category": "ulusal",
+    "close_match": ["showtv", "show-tv", "show_tv"]
+  },
+  {
+    "channel": "beyaz tv",
+    "category": "ulusal",
+    "close_match": ["beyaztv", "beyaz-tv", "beyaz_tv"]
+  },
+  {
+    "channel": "kanal 7",
+    "category": "ulusal",
+    "close_match": ["kanal7", "kanal-7", "kanal_7", "kanalyedi"]
+  },
+  {
+    "channel": "tv8",
+    "category": "ulusal",
+    "close_match": ["tv 8", "tv-8", "tv_8", "tvsekiz"]
+  },
+  {
+    "channel": "star tv",
+    "category": "ulusal",
+    "close_match": ["startv", "star-tv", "star_tv"]
+  },
+  {
+    "channel": "360 tv",
+    "category": "ulusal",
+    "close_match": ["360tv", "üçyüzaltmış tv", "ucyuzaltmis tv", "360-tv", "360_tv"]
+  },
+  {
+    "channel": "tv 100",
+    "category": "ulusal",
+    "close_match": ["tv100", "tv-100", "tv_100", "tvyüz", "tvyuz"]
+  },
+  {
+    "channel": "trt türk",
+    "category": "ulusal - yurt dışı",
+    "close_match": ["trtturk", "trt-türk", "trt_türk", "trt-turk", "trt_turk", "trtturk", "trt turk"]
+  },
+  {
+    "channel": "trt avaz",
+    "category": "ulusal - yurt dışı",
+    "close_match": ["trtavaz", "trt-avaz", "trt_avaz"]
+  },
+  {
+    "channel": "euro d",
+    "category": "ulusal - yurt dışı",
+    "close_match": ["eurod", "euro-d", "euro_d"]
+  },
+  {
+    "channel": "tgrt eu",
+    "category": "ulusal - yurt dışı",
+    "close_match": ["tgrteu", "tgrt-eu", "tgrt_eu", "tgrt avrupa", "tgrtavrupa"]
+  },
+  {
+    "channel": "show türk",
+    "category": "ulusal - yurt dışı",
+    "close_match": ["showturk", "show-türk", "show_türk", "show-turk", "show_turk", "showturk", "show turk"]
+  },
+  {
+    "channel": "kanal 7 avrupa",
+    "category": "ulusal - yurt dışı",
+    "close_match": ["kanal7avrupa", "kanal7 avrupa", "kanal-7-avrupa", "kanal_7_avrupa", "kanal 7 europe", "kanal7europe"]
+  },
+  {
+    "channel": "trt haber",
+    "category": "haber",
+    "close_match": ["trthaber", "trt-haber", "trt_haber"]
+  },
+  {
+    "channel": "a haber",
+    "category": "haber",
+    "close_match": ["ahaber", "a-haber", "a_haber"]
+  },
+  {
+    "channel": "cnn türk",
+    "category": "haber",
+    "close_match": ["cnnturk", "cnn-türk", "cnn_türk", "cnn-turk", "cnn_turk", "cnn turk"]
+  },
+  {
+    "channel": "habertürk",
+    "category": "haber",
+    "close_match": ["haberturk", "haber türk", "haber-türk", "haber_türk", "haber-turk", "haber_turk", "haber turk"]
+  },
+  {
+    "channel": "haber global",
+    "category": "haber",
+    "close_match": ["haberglobal", "haber-global", "haber_global"]
+  },
+  {
+    "channel": "ülke tv",
+    "category": "haber",
+    "close_match": ["ulketv", "ulke tv", "ülketv", "ülke-tv", "ülke_tv", "ulke-tv", "ulke_tv"]
+  },
+  {
+    "channel": "halk tv",
+    "category": "haber",
+    "close_match": ["halktv", "halk-tv", "halk_tv"]
+  },
+  {
+    "channel": "ntv",
+    "category": "haber",
+    "close_match": ["n tv", "n-tv", "n_tv"]
+  },
+  {
+    "channel": "24 tv",
+    "category": "haber",
+    "close_match": ["24tv", "24-tv", "24_tv", "yirmidort tv", "yirmidörttv"]
+  },
+  {
+    "channel": "akit tv",
+    "category": "haber",
+    "close_match": ["akittv", "akit-tv", "akit_tv"]
+  },
+  {
+    "channel": "sözcü tv",
+    "category": "haber",
+    "close_match": ["sözcütv", "sozcu tv", "sozcutv", "sözcü-tv", "sözcü_tv", "sozcu-tv", "sozcu_tv"]
+  },
+  {
+    "channel": "tele 1",
+    "category": "haber",
+    "close_match": ["tele1", "tele-1", "tele_1", "teleone", "tele one", "telebir"]
+  },
+  {
+    "channel": "tvnet",
+    "category": "haber",
+    "close_match": ["tv net", "tv-net", "tv_net"]
+  },
+  {
+    "channel": "bengütürk tv",
+    "category": "haber",
+    "close_match": ["bengütürktv", "benguturk tv", "benguturktv", "bengü türk tv", "bengu turk tv", "bengütürk-tv", "bengütürk_tv", "benguturk-tv", "benguturk_tv"]
+  },
+  {
+    "channel": "yol tv",
+    "category": "haber",
+    "close_match": ["yoltv", "yol-tv", "yol_tv"]
+  },
+  {
+    "channel": "tbmm tv",
+    "category": "haber",
+    "close_match": ["tbmmtv", "tbmm-tv", "tbmm_tv"]
+  },
+  {
+    "channel": "dha canlı 1",
+    "category": "haber",
+    "close_match": ["dhacanli1", "dha canli 1", "dha canlı1", "dha-canlı-1", "dha_canlı_1", "dha-canli-1", "dha_canli_1"]
+  },
+  {
+    "channel": "dha canlı 2",
+    "category": "haber",
+    "close_match": ["dhacanli2", "dha canli 2", "dha canlı2", "dha-canlı-2", "dha_canlı_2", "dha-canli-2", "dha_canli_2"]
+  },
+  {
+    "channel": "bloomberg ht",
+    "category": "ekonomi",
+    "close_match": ["bloombergHT", "bloomberg-ht", "bloomberg_ht", "bloomberg habertürk", "bloomberg haberturk"]
+  },
+  {
+    "channel": "ekotürk",
+    "category": "ekonomi",
+    "close_match": ["ekoturk", "eko türk", "eko-türk", "eko_türk", "eko turk", "eko-turk", "eko_turk"]
+  },
+  {
+    "channel": "finans türk",
+    "category": "ekonomi",
+    "close_match": ["finansturk", "finans turk", "finans-türk", "finans_türk", "finans-turk", "finans_turk"]
+  },
+  {
+    "channel": "cnbc-e",
+    "category": "ekonomi",
+    "close_match": ["cnbce", "cnbc e", "cnbc_e"]
+  },
+  {
+    "channel": "trt 2",
+    "category": "eğlence",
+    "close_match": ["trt2", "trt-2", "trt_2", "trtiki", "trt iki"]
+  },
+  {
+    "channel": "a2",
+    "category": "eğlence",
+    "close_match": ["a 2", "a-2", "a_2", "aiki", "a iki"]
+  },
+  {
+    "channel": "teve2",
+    "category": "eğlence",
+    "close_match": ["teve 2", "teve-2", "teve_2", "teveiki", "teve iki", "tv2", "tv 2"]
+  },
+  {
+    "channel": "show max",
+    "category": "eğlence",
+    "close_match": ["showmax", "show-max", "show_max"]
+  },
+  {
+    "channel": "tv8.5",
+    "category": "eğlence",
+    "close_match": ["tv 8.5", "tv-8.5", "tv_8.5", "tv8,5", "tv 8,5", "tv8bucuk", "tv 8 bucuk", "tv8buçuk", "tv 8 buçuk"]
+  },
+  {
+    "channel": "dmax",
+    "category": "eğlence",
+    "close_match": ["d max", "d-max", "d_max"]
+  },
+  {
+    "channel": "tlc",
+    "category": "eğlence",
+    "close_match": ["t l c", "t-l-c", "t_l_c"]
+  },
+  {
+    "channel": "tv 4",
+    "category": "eğlence",
+    "close_match": ["tv4", "tv-4", "tv_4", "tvdört", "tvdort", "tv dört", "tv dort"]
+  },
+  {
+    "channel": "dizi film tv",
+    "category": "eğlence",
+    "close_match": ["dizifilmtv", "dizi-film-tv", "dizi_film_tv", "dizifilm tv"]
+  },
+  {
+    "channel": "kültür sanat tv",
+    "category": "eğlence",
+    "close_match": ["kültürsanattv", "kultur sanat tv", "kultursanattv", "kültür-sanat-tv", "kültür_sanat_tv", "kultur-sanat-tv", "kultur_sanat_tv"]
+  },
+  {
+    "channel": "belgesel tv",
+    "category": "eğlence",
+    "close_match": ["belgeseltv", "belgesel-tv", "belgesel_tv"]
+  },
+  {
+    "channel": "sağlıklı günler tv",
+    "category": "eğlence",
+    "close_match": ["sağlıklıgünlertv", "saglikli gunler tv", "saglikligumlertv", "sağlıklı-günler-tv", "sağlıklı_günler_tv", "saglikli-gunler-tv", "saglikli_gunler_tv"]
+  },
+  {
+    "channel": "tarih tv",
+    "category": "eğlence",
+    "close_match": ["tarihtv", "tarih-tv", "tarih_tv"]
+  },
+  {
+    "channel": "trt spor",
+    "category": "spor",
+    "close_match": ["trtspor", "trt-spor", "trt_spor"]
+  },
+  {
+    "channel": "trt spor yıldız",
+    "category": "spor",
+    "close_match": ["trtsporstar", "trtsporyildiz", "trt spor yildiz", "trt-spor-yıldız", "trt_spor_yıldız", "trt-spor-yildiz", "trt_spor_yildiz", "trtsporyıldız"]
+  },
+  {
+    "channel": "a spor",
+    "category": "spor",
+    "close_match": ["aspor", "a-spor", "a_spor"]
+  },
+  {
+    "channel": "sports tv",
+    "category": "spor",
+    "close_match": ["sportstv", "sports-tv", "sports_tv"]
+  },
+  {
+    "channel": "tivibu spor",
+    "category": "spor",
+    "close_match": ["tivibuspor", "tivibu-spor", "tivibu_spor"]
+  },
+  {
+    "channel": "fb tv",
+    "category": "spor",
+    "close_match": ["fbtv", "fb-tv", "fb_tv", "fenerbahçe tv", "fenerbahce tv", "fenerbahçetv", "fenerbahcetv"]
+  },
+  {
+    "channel": "gs tv",
+    "category": "spor",
+    "close_match": ["gstv", "gs-tv", "gs_tv", "galatasaray tv", "galatasaraytv"]
+  },
+  {
+    "channel": "tjk tv",
+    "category": "spor",
+    "close_match": ["tjktv", "tjk-tv", "tjk_tv"]
+  },
+  {
+    "channel": "tjk tv 2",
+    "category": "spor",
+    "close_match": ["tjktv2", "tjk tv2", "tjk-tv-2", "tjk_tv_2", "tjk tv iki", "tjktviki"]
+  },
+  {
+    "channel": "briç ve satranç tv",
+    "category": "spor",
+    "close_match": ["briçvesatrançtv", "bric ve satranc tv", "bricvesatranctv", "briç-ve-satranç-tv", "briç_ve_satranç_tv", "bric-ve-satranc-tv", "bric_ve_satranc_tv"]
+  },
+  {
+    "channel": "fit yaşa tv",
+    "category": "spor",
+    "close_match": ["fityaşatv", "fit yasa tv", "fityasatv", "fit-yaşa-tv", "fit_yaşa_tv", "fit-yasa-tv", "fit_yasa_tv"]
+  },
+  {
+    "channel": "ziraat türkiye kupası tv",
+    "category": "spor",
+    "close_match": ["ziraattürkiyekupasıtv", "ziraat turkiye kupasi tv", "ziraatturkiyekupasitv", "ziraat-türkiye-kupası-tv", "ziraat_türkiye_kupası_tv", "ziraat-turkiye-kupasi-tv", "ziraat_turkiye_kupasi_tv", "ztk tv", "ztktv"]
+  },
+  {
+    "channel": "trt müzik",
+    "category": "müzik",
+    "close_match": ["trtmüzik", "trtmuzik", "trt muzik", "trt-müzik", "trt_müzik", "trt-muzik", "trt_muzik"]
+  },
+  {
+    "channel": "dream türk",
+    "category": "müzik",
+    "close_match": ["dreamtürk", "dream turk", "dreamturk", "dream-türk", "dream_türk", "dream-turk", "dream_turk"]
+  },
+  {
+    "channel": "powertürk tv",
+    "category": "müzik",
+    "close_match": ["powertürktv", "power türk tv", "powerturk tv", "powerturktv", "power-türk-tv", "power_türk_tv", "power-turk-tv", "power_turk_tv"]
+  },
+  {
+    "channel": "power tv",
+    "category": "müzik",
+    "close_match": ["powertv", "power-tv", "power_tv"]
+  },
+  {
+    "channel": "kral pop tv",
+    "category": "müzik",
+    "close_match": ["kralpoptv", "kral-pop-tv", "kral_pop_tv", "kralpop tv"]
+  },
+  {
+    "channel": "number one tv",
+    "category": "müzik",
+    "close_match": ["numberonetv", "number-one-tv", "number_one_tv", "no1 tv", "no1tv"]
+  },
+  {
+    "channel": "number one türk",
+    "category": "müzik",
+    "close_match": ["numberoneturk", "number one turk", "numberonetürk", "number-one-türk", "number_one_türk", "number-one-turk", "number_one_turk", "no1 türk", "no1türk", "no1 turk", "no1turk"]
+  },
+  {
+    "channel": "milyon tv",
+    "category": "müzik",
+    "close_match": ["milyontv", "milyon-tv", "milyon_tv"]
+  },
+  {
+    "channel": "tatlıses tv",
+    "category": "müzik",
+    "close_match": ["tatlısestv", "tatlises tv", "tatlisestv", "tatlıses-tv", "tatlıses_tv", "tatlises-tv", "tatlises_tv"]
+  },
+  {
+    "channel": "tmb",
+    "category": "müzik",
+    "close_match": ["t m b", "t-m-b", "t_m_b", "türk müzik birliği", "turk muzik birligi"]
+  },
+  {
+    "channel": "power dance",
+    "category": "müzik",
+    "close_match": ["powerdance", "power-dance", "power_dance"]
+  },
+  {
+    "channel": "power love",
+    "category": "müzik",
+    "close_match": ["powerlove", "power-love", "power_love"]
+  }
 ]
